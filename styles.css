@@ -1,10 +1,7 @@
 body{
 	background: black;
 }
-.resultados{
-	text-align: center;
-	margin-top: 5px;
-}
+
 .container-padre{
 	margin: 40px 20%;
 	background-color: #f0ffff;
