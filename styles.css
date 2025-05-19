@@ -1,0 +1,32 @@
+body{
+	background: black;
+}
+.resultados{
+	text-align: center;
+	margin-top: 5px;
+}
+.container-padre{
+	margin: 40px 20%;
+	background-color: #f0ffff;
+	padding: 80px;
+	border-radius: 20px;
+}
+
+.botones{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-content: center;
+
+}
+.form-control{
+	border-radius: 0;
+	
+
+}
+.btn{
+	border-radius: 0;
+	
+
+}
